@@ -32,7 +32,7 @@
 ---
 
 ## Síntesis de hallazgos
-* Métricas generales de ingresos (ITF): sobre los 921 hogares analizados, el ingreso familiar promedio es de $779.201,73 y la mediana es de $632.510,43 (percentil 25 en 50 $415.855,99 y percentil 75 en $953.989,80).
+* Métricas generales de ingresos (ITF): sobre los 921 hogares analizados, el ingreso familiar promedio es de $779.201,73 y la mediana es de $632.510,43 (percentil 25 $415855.99 en 50 $632510.43 y percentil 75 en $953.989,80).
 * Acceso a computadora e ingresos (IV12_3 vs. ITF): los hogares que cuentan con computadora (1 - Sí) presentan un ingreso promedio de $888.707,57 (mediana $728.645,42), superando ampliamente a los hogares sin computadora (2 - No), que registran una media de $584.927,82 (mediana $490.764,06).
 * Nivel educativo e ingresos (NIVEL_EDU_ETQ vs. ITF): el ingreso crece de manera directa con el nivel educativo, desde $326.963,58 promedio en Primaria incompleta hasta $1.630.565,61 en Superior. Secundaria incompleta concentra la mayor cantidad de casos (32,68%).
 * Disparidad regional (REGION_ETQ vs. IV12_3): Cuyo (60,5% Sí / 39,5% No) y NOA (61,7% Sí / 38,3% No) muestran los porcentajes más bajos de acceso en el hogar, mientras que GBA concentra el mayor volumen total de encuestados (332 hogares).
